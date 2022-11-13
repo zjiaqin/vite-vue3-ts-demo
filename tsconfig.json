@@ -9,6 +9,10 @@
     },
     {
       "path": "./tsconfig.vitest.json"
+    },
+    {
+      "path": "./auto-imports.d.ts"
     }
+   
   ]
 }
